@@ -10,7 +10,7 @@
 ## Code 1
 
 ```
-# include <stdio.h>
+# include <stdio.h> // This is a header file library that lets us work with input and output functions, such as printf(). A header file adds functionality to a program.
 
 int main()
 {
@@ -19,7 +19,7 @@ int main()
 }
 ```
 - Line 1
-    - `# include <stdio.h>` is a  **header file library** that lets us work with input and output functions, such as `printf()`. **A header file adds functionality to a program.**
+    - `# include <stdio.h>` 
 
 - Line 2
     - A blank line, C ignores white space, but we use it to make the program more readable.
