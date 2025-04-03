@@ -18,17 +18,23 @@ int main()
     return 0;
 }
 ```
+
 - Line 1
     - `# include <stdio.h>` is a  **header file library** that lets us work with input and output functions, such as `printf()`. **A header file adds functionality to a program.**
-
 - Line 2
     - A blank line, C ignores white space, but we use it to make the program more readable.
-
 - Line 3
     - `int main()` is called a **function**. Any code in its curly brackets `{}` will be executed.
-
 - Line 4
     - `printf()` is a **function** used to output/print text to the screen. In this case, it will output **Hello World!**
-
 - Line 5
     - `return 0` ends the `main()` function.
+
+## Statements
+- A computer program is a list of "instructions" to be "executed" by a computer.
+- In a programming langauge, **these programming instructions are called statements**.
+- The following statement "instructs" the compiler to print the text "Hello World" to the screen,  `printf("Hello World!");`
+- It is important that you end the statement with a semicolon `;`, if you forget that, an error will occur and the program will not run.
+- The above program has two statements, 
+ - `printf("Hello World!\n");` to print "Hello World!" to the screen
+ - `return 0;` to end the C program successfully
