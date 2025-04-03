@@ -31,7 +31,7 @@ int main()
     - `return 0` ends the `main()` function.
 
 ## Statements
-- A computer program is a list of "instructions" to be "executed" by a computer.
+- A computer program is a **list of "instructions" to be "executed" by a computer**.
 
 - In a programming langauge, **these programming instructions are called statements**.
 
