@@ -41,5 +41,5 @@ int main()
 - It is important that you end the statement with a semicolon `;`, if you forget that, an error will occur and the program will not run.
 
 - The above program has two statements, 
- - `printf("Hello World!\n");` to print "Hello World!" to the screen
- - `return 0;` to end the C program successfully
+    - `printf("Hello World!\n");` to print "Hello World!" to the screen
+    - `return 0;` to end the C program successfully
