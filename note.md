@@ -32,9 +32,13 @@ int main()
 
 ## Statements
 - A computer program is a list of "instructions" to be "executed" by a computer.
+
 - In a programming langauge, **these programming instructions are called statements**.
+
 - The following statement "instructs" the compiler to print the text "Hello World" to the screen,  `printf("Hello World!");`
+
 - It is important that you end the statement with a semicolon `;`, if you forget that, an error will occur and the program will not run.
+
 - The above program has two statements, 
  - `printf("Hello World!\n");` to print "Hello World!" to the screen
  - `return 0;` to end the C program successfully
