@@ -1,10 +1,10 @@
 ## What is C?
-- C is a general purpose programming langauge created by Dennis Ritchie at the Bell Laboratories in 1972.
-- It is a very popular langauge, despite being old. The main reason for its popularity is because it is a fundamental langauge in the field of computer science.
+- C is a general purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.
+- It is a very popular language, despite being old. The main reason for its popularity is because it is a fundamental language in the field of computer science.
 - C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
 
 ## Difference between C and C++
-- C++ was developed as an extension of C, as both langauges have the same syntax.
+- C++ was developed as an extension of C, as both languages have the same syntax.
 - The main difference between C and C++ is that C++ supports classes and objects, while C does not.
 
 ## Code 1
@@ -34,7 +34,7 @@ int main()
 ## Statements
 - A computer program is a **list of "instructions" to be "executed" by a computer**.
 
-- In a programming langauge, **these programming instructions are called statements**.
+- In a programming language, **these programming instructions are called statements**.
 
 - The following statement "instructs" the compiler to print the text "Hello World" to the screen,  `printf("Hello World!");`
 
@@ -45,7 +45,7 @@ int main()
     - `return 0;` to end the C program successfully.
 
 ## What is `\n`?
-- The **newline character `(\n)`** is called an **escape sequence**, and it forces the cursor to change its postion to the beginning of the next line on the screen, which results in a new line.
+- The **newline character `(\n)`** is called an **escape sequence**, and it forces the cursor to change its position to the beginning of the next line on the screen, which results in a new line.
 - Some other examples of valid escape sequences are,
     |Escape Sequence|Description|
     |---------------|-----------|
