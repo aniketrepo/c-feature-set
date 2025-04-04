@@ -41,6 +41,14 @@ int main()
 - It is important that you end the statement with a semicolon `;`, if you forget that, an error will occur and the program will not run.
 
 - The above program has two statements, 
-    - `printf("Hello World!\n");` to print "Hello World!" to the screen
-    - `return 0;` to end the C program successfully
+    - `printf("Hello World!\n");` to print "Hello World!" to the screen.
+    - `return 0;` to end the C program successfully.
 
+## What is `\n`?
+- The **newline character `(\n)`** is called an **escape sequence**, and it forces the cursor to change its postion to the beginning of the next line on the screen, which results in a new line.
+- Some other examples of valid escape sequences are,
+    |Escape Sequence|Description|
+    |---------------|-----------|
+    |`\t`           |Creates a horizontal tab|
+    |`\\`           |Inserts a backlash character `(\)`|
+    |`\"`           |Inserts a double quote `(")`|
