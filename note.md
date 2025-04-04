@@ -72,3 +72,11 @@ int main()
 	- `int` - stores **integers (whole numbers) without decimals**, such as `123` or `-123`.
 	- `float` - stores **floating point numbers, with decimals** such as `19.99` or `-19.99`.
 	- `char` - stores **single characters** such as `'a'` or `'b'`. Characters are surrounded by **single quotes**.
+
+### Format Specifiers
+- These specifiers are used together with the `printf()` function to tell the compiler what type of data is being stored.
+- It is basically a **placeholder** for the variable value.
+- A format specifier starts with a `%` sign and followed by a character,
+	- `int` - `%d`
+	- `float` - `%f`
+	- `char` - `%c`
