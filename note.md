@@ -61,7 +61,6 @@ int main()
 ### Single-line comments
 - These begin with **two forward slashes** `(\\)`.
 - Any text between `(\\)` and at the end of the line is ignored by the compiler (will not be executed.)
-- 
 
 ### Multi-line comments
 - These begin with `\*` and end with `*\`.
