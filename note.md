@@ -65,3 +65,10 @@ int main()
 ### Multi-line comments
 - These begin with `\*` and end with `*\`.
 - Any text between `\*` and `*\` will be ignored by the compiler.
+
+## C variables
+- Variables are containers for storing data values, like numbers and characters.
+- In C, there are different types of variables (defined with different keywords),
+	- `int`- stores **integers (whole numbers) without decimals**, such as `123` or `-123`.
+	- `float`- stores **floating point numbers, with decimals** such as `19.99` or `-19.99`.
+	- `char`- stores **single characters** such as `a` or `b`. Characters are surrounded by **single quotes**.
