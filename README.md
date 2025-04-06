@@ -6,3 +6,5 @@
 - [Multi-lined comment](https://github.com/aniketrepo/c-feature-set/blob/main/code/multilinecomment.c)
 - [Initialising variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/variables.c)
 - [Format Specifiers](https://github.com/aniketrepo/c-feature-set/blob/main/code/formatspecifiers.c)
+- [Format Specifiers 2](https://github.com/aniketrepo/c-feature-set/blob/main/code/formatspecifiers2.c)
+- 
