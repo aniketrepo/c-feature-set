@@ -80,3 +80,5 @@ int main()
 	- `int` - `%d`
 	- `float` - `%f`
 	- `char` - `%c`
+	- `str` - `%s`
+
