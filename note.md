@@ -47,6 +47,7 @@ int main()
 ## What is `\n`?
 - The **newline character `(\n)`** is called an **escape sequence**, and it **forces the cursor to change its position to the beginning of the next line on the screen, which results in a new line.**
 - Some other examples of valid escape sequences are,
+
     |Escape Sequence|Description|
     |---------------|---------------|
     |`\t`                   |Creates a horizontal tab|
