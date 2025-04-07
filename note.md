@@ -7,7 +7,7 @@
 - C++ was developed as an extension of C, as both languages have the same syntax.
 - The main difference between C and C++ is that C++ supports classes and objects, while C does not.
 
-## Code 1
+## Some crucial stuff about a code
 
 ```
 # include <stdio.h> 
