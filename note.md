@@ -82,8 +82,14 @@ int main()
 	- `char` - `%c`
 	- `str` - `%s`
 
-## Operations with variables
+### Operations with variables
 - When we assign a new value to an existing variable, it **overwrites the previous value**.
 - We can also add variables using the `+` operator.
 - We can declare multiple variables of the same type using a **comma-separated** list.
 
+### C Variable Names (Identifiers)
+- All C variables must be **identified** with **unique names**.
+- Theses unique names are called **identifiers**.
+- They can be short names (like x and y) or long and descriptive (like sum or TotalValue)
+- It is recommended to use descriptive names in order to create and maintain understandable code.
+- 
