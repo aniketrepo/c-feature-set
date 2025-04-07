@@ -82,3 +82,7 @@ int main()
 	- `char` - `%c`
 	- `str` - `%s`
 
+## Operations with variables
+- When we assign a new value to an existing variable, it **overwrites the previous value**.
+- We can also add variables using the `+` operator.
+
