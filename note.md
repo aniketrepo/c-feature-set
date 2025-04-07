@@ -45,7 +45,7 @@ int main()
     - `return 0;` to end the C program successfully.
 
 ## What is `\n`?
-- The **newline character `(\n)`** is called an **escape sequence**, and it forces the cursor to change its position to the beginning of the next line on the screen, which results in a new line.
+- The **newline character `(\n)`** is called an **escape sequence**, and it **forces the cursor to change its position to the beginning of the next line on the screen, which results in a new line.**
 - Some other examples of valid escape sequences are,
     |Escape Sequence|Description|
     |---------------|---------------|
@@ -97,3 +97,6 @@ int main()
 	- Names **must begin** with a **letter or an underscore `(_)`**.
 	- Names are **case-sensitive** (`myvar` and `myVar` are different variables).
 	- **Reserved words (such as `int`)** cannot be used as names.
+
+## C Data Types
+- 
