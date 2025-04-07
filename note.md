@@ -85,4 +85,5 @@ int main()
 ## Operations with variables
 - When we assign a new value to an existing variable, it **overwrites the previous value**.
 - We can also add variables using the `+` operator.
+- We can declare multiple variables of the same type using a **comma-separated** list.
 
