@@ -10,4 +10,5 @@
 - [Format Specifiers 3](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers3.c)
 - [Operations with Variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/OperationsWithVariables.c)
 - [Student Data](https://github.com/aniketrepo/c-feature-set/blob/main/code/StudentData.c)
+- [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
 - 
