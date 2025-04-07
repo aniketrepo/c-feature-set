@@ -93,7 +93,7 @@ int main()
 - They can be short names (like x and y) or long and descriptive (like sum or TotalValue)
 - It is recommended to use descriptive names in order to create and maintain understandable code.
 - Some general rules for variable naming,
-	- Names can contain letters, digits and underscores.
-	- Names **must begin** with a letter or an underscore `(_)`
-	- Names are case-sensitive (`myvar` and `myVar` are different variables).
-	- Reserved words (such as `int`) cannot be used as names.
+	- Names can contain **letters, digits and underscores**.
+	- Names **must begin** with a **letter or an underscore `(_)`**.
+	- Names are **case-sensitive** (`myvar` and `myVar` are different variables).
+	- **Reserved words (such as `int`)** cannot be used as names.
