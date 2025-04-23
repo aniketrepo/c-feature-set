@@ -12,3 +12,7 @@
 - [Student Data](https://github.com/aniketrepo/c-feature-set/blob/main/code/StudentData.c)
 - [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
+- [Logical Operators]()
+- [Bitwise Operators]()
+- [Sizeof Operator]()
+- 
