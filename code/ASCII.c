@@ -7,9 +7,8 @@ int main()
     printf("Please enter a character: ", ch);
     scanf("%c", &ch);
 
-    printf("ASCII value of '%c' is %d", ch, ch);
+    printf("ASCII value of '%c' is %d\n", ch, ch);
     
-    clrscr();
     getchar();
     return 0;
 }
