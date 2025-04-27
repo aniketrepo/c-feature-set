@@ -4,7 +4,7 @@
 - [Hello World](https://github.com/aniketrepo/c-feature-set/blob/main/code/MyFirstProgram.c)
 - [Single-lined comment](https://github.com/aniketrepo/c-feature-set/blob/main/code/SingleLineComment.c)
 - [Multi-lined comment](https://github.com/aniketrepo/c-feature-set/blob/main/code/MultiLineComment.c)
-- [Initialising variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/Variables.c)
+- [Initializing variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/Variables.c)
 - [Format Specifiers 1](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers.c)
 - [Format Specifiers 2](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers2.c)
 - [Format Specifiers 3](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers3.c)
