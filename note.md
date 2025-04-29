@@ -121,4 +121,4 @@ int main()
 	|`%f` or `%F`|`float`|
 	|`%lf`|`double`|
 	|`%c`| `char` |
-	|`%s` |`char[]`|
+	|`%s` |`str`|
