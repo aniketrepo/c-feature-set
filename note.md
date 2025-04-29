@@ -122,3 +122,6 @@ int main()
 	|`%lf`|`double`|
 	|`%c`| `char` |
 	|`%s` |`str`|
+
+
+## C Character Data Types
