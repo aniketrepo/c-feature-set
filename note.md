@@ -100,4 +100,25 @@ int main()
 	- **Reserved words (such as `int`)** cannot be used as names.
 
 ## C Data Types
-- 
+- As we already know, a variable must be a specified **data type**, and we must use a **format specifier** inside the `printf()` function to display it.
+
+### Basic Data Types
+- The data type specifies the **size and type** of information the variable will store.
+
+	|Data Type|Size|Description|Example|
+	|-----------|-----|------------|---------|
+	|`int`|2 or 4 bytes|Stores whole numbers, without decimals|`1`|
+	|`float`|4 bytes|Stores factorial numbers, containing one or more decimals, sufficient for storing 6-7 decimal digits|`1.99`|
+	|`double`|8 bytes|Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits|`1.99`|
+	|`char`|1 byte|Stores a single character/letter/number, or ASCII values|`'A'`|
+
+### Basic Format Specifiers
+- There are different format specifiers for each data type. Some of them are
+
+	|Format Specifier|Data Type|
+	|------------------|-----------|
+	|`%d` or `%i`|`int`|
+	|`%f` or `%F`|`float`|
+	|`%lf`|`double`|
+	|`%c`| `char` |
+	|`%s` |`char[]`|
