@@ -125,3 +125,4 @@ int main()
 
 
 ## C Character Data Types
+- The `char` data type is used to store 
