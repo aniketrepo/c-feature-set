@@ -16,4 +16,7 @@
 - [Bitwise Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/BitwiseOperator.c)
 - [Sizeof Operator](https://github.com/aniketrepo/c-feature-set/blob/main/code/SizeofOperator.c)
 - [Assignment Operator](https://github.com/aniketrepo/c-feature-set/blob/main/code/AssingmentOperator.c)
-- [Increment and Decrement Operators]()
+- [Calculator using Switch Case](https://github.com/aniketrepo/c-feature-set/blob/main/code/CalculatorSwitchCase.c)
+- [Vowels and Consonant using Switch Case](https://github.com/aniketrepo/c-feature-set/blob/main/code/VowelAndConsonantSwitchCase.c)
+- [Vibgyor using Switch Case](https://github.com/aniketrepo/c-feature-set/blob/main/code/VibgyorSwitchCase.c)
+- 
