@@ -1,6 +1,7 @@
 [notes](https://github.com/aniketrepo/c-feature-set/blob/main/note.md)
 
 ## Basic Language Features
+### Self
 - [Hello World](https://github.com/aniketrepo/c-feature-set/blob/main/code/MyFirstProgram.c)
 - [Single-lined comment](https://github.com/aniketrepo/c-feature-set/blob/main/code/SingleLineComment.c)
 - [Multi-lined comment](https://github.com/aniketrepo/c-feature-set/blob/main/code/MultiLineComment.c)
@@ -11,6 +12,8 @@
 - [Operations with Variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/OperationsWithVariables.c)
 - [Student Data](https://github.com/aniketrepo/c-feature-set/blob/main/code/StudentData.c)
 - [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
+
+### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
 - [Logical Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/LogicalOperators.c)
 - [Bitwise Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/BitwiseOperator.c)
