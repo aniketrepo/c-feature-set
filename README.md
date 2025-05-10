@@ -15,12 +15,12 @@
 - [Format Specifiers 3](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers3.c)
 - [Operations with Variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/OperationsWithVariables.c)
 
+### Data Types
+- [Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/DataTypes.c)
+
 ### Real-Life examples
 - [Student Data](https://github.com/aniketrepo/c-feature-set/blob/main/code/StudentData.c)
 - [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
-
-### Data Types
-- [Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/DataTypes.c)
 
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
