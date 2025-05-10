@@ -124,7 +124,12 @@ int main()
 	|`%s` |`str`|
 
 
-### Character Data Type
+### Character Data Types
 - The `char` data type is used to store a **single** character.
 - The character must be stored by single quotes, like `'A'` or `'C'`.
 - We use the format specifier `%c` to print it.
+- If we try to store more than a single character, it will only print the last character.
+
+### Numeric Data Types
+- The `int` data type is used to store a **whole number without decimals**.
+- The `float` or `double` data type is used to store a **floating point number**.
