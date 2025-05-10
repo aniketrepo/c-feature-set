@@ -21,7 +21,7 @@
 - [Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/DataTypes.c)
 - [The Char data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheCharDataType.c)
 - [The Int data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheIntDataType.c)
-- 
+- [The Float data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheFloatDataType.c)
 
 
 ### College
