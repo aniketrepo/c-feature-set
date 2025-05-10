@@ -17,7 +17,7 @@
 
 ### Data Types
 - [Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/DataTypes.c)
-- [The `char` data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheCharDataType.c)
+- [The Char data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheCharDataType.c)
 - 
 
 ### Real-Life examples
