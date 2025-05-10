@@ -20,7 +20,7 @@
 - [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
 
 ### Data Types
-- 
+- [Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/DataTypes.c)
 
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
