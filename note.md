@@ -125,4 +125,6 @@ int main()
 
 
 ## C Character Data Types
-- The `char` data type is used to store 
+- The `char` data type is used to store a **single** character.
+- The character must be stored by single quotes, like `'A'` or `'C'`.
+- We use the format specifier `%c` to print it.
