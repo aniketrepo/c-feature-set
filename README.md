@@ -23,6 +23,7 @@
 - [The Int data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheIntDataType.c)
 - [The Float data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheFloatDataType.c)
 - [Power of 10](https://github.com/aniketrepo/c-feature-set/blob/main/code/PowerOfTen.c)
+- [Decimal Precision](https://github.com/aniketrepo/c-feature-set/blob/main/code/DecimalPrecision.c)
 - 
 
 
