@@ -24,14 +24,13 @@
 - [The Float data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheFloatDataType.c)
 - [Power of 10](https://github.com/aniketrepo/c-feature-set/blob/main/code/PowerOfTen.c)
 - [Decimal Precision](https://github.com/aniketrepo/c-feature-set/blob/main/code/DecimalPrecision.c)
-- 
+- [sizeof Operator](https://github.com/aniketrepo/c-feature-set/blob/main/code/SizeofOperator.c)
 
 
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
 - [Logical Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/LogicalOperators.c)
 - [Bitwise Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/BitwiseOperator.c)
-- [Sizeof Operator](https://github.com/aniketrepo/c-feature-set/blob/main/code/SizeofOperator.c)
 - [Assignment Operator](https://github.com/aniketrepo/c-feature-set/blob/main/code/AssingmentOperator.c)
 - [Calculator using Switch Case](https://github.com/aniketrepo/c-feature-set/blob/main/code/CalculatorSwitchCase.c)
 - [Vowels and Consonant using Switch Case](https://github.com/aniketrepo/c-feature-set/blob/main/code/VowelAndConsonantSwitchCase.c)

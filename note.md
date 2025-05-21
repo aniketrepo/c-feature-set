@@ -141,3 +141,15 @@ int main()
 ### Decimal Precision
 - We already know that upon printing a floating point number, the output will show many digits after the decimal point.
 - To remove the extra zeroes, we can use a dot (`.`) followed by a number which specifies how many digits should be shown after the decimal point.
+
+### Memory Size
+- The memory size of a variable varies depending on the type:
+
+| Data Type | Size         |
+| --------- | ------------ |
+| `int`     | 2 or 4 bytes |
+| `float`   | 4 bytes      |
+| `double`  | 8 bytes      |
+| `char`    | 1 byte       |
+- The memory size refers to how much space a type occupies in the ***computer's memory***.
+- To get the size of a data type in bytes, we use **the `sizeof` operator**.
