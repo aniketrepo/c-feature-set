@@ -24,7 +24,7 @@
 - [The Float data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheFloatDataType.c)
 - [Power of 10](https://github.com/aniketrepo/c-feature-set/blob/main/code/PowerOfTen.c)
 - [Decimal Precision](https://github.com/aniketrepo/c-feature-set/blob/main/code/DecimalPrecision.c)
-- [sizeof Operator](https://github.com/aniketrepo/c-feature-set/blob/main/code/SizeofOperator.c)
+- [Size of Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/SizeofOperator.c)
 
 
 ### College
