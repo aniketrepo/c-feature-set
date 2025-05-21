@@ -135,4 +135,5 @@ int main()
 - The `float` or `double` data type is used to store a **floating point number**.
 	- `float` is used for less precision (~6~7 decimal digits) and smaller memory footprint (4 bytes)
 	- `double` is used for higher precision (~15~16 decimal digits) and has a higher memory footprint (8 bytes)
-
+- **Scientific Numbers:**
+	- A floating point number can also be a scientific number with an **"e"** to **indicate the power of 10.**
