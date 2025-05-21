@@ -137,3 +137,7 @@ int main()
 	- `double` is used for higher precision (~15~16 decimal digits) and has a higher memory footprint (8 bytes)
 - **Scientific Numbers:**
 	- A floating point number can also be a scientific number with an **"e"** to **indicate the power of 10.**
+
+### Decimal Precision
+- We already know that upon printing a floating point number, the output will show many digits after the decimal point.
+- To remove the extra zeroes, we can use a dot (`.`) followed by a number which specifies how many digits should be shown after the decimal point.
