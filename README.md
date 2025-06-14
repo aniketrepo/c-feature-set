@@ -16,7 +16,6 @@
 - [Operations with Variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/OperationsWithVariables.c)
 	- [Student Data](https://github.com/aniketrepo/c-feature-set/blob/main/code/StudentData.c)
 	- [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
-
 ### Data Types
 - [Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/DataTypes.c)
 - [The Char data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheCharDataType.c)
@@ -28,6 +27,8 @@
 - [Type Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/TypeConversion.c)
 	- [Implicit Type Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/ImplicitTypeConversion.c)
 	- [Explicit Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/ExplicitTypeConversion.c)
+	- [Video Game Score](https://github.com/aniketrepo/c-feature-set/blob/main/code/VideoGameScore.c)
+- 
 
 
 ### College
