@@ -8,4 +8,6 @@ int main()
     int y = 7;
 
     printf("%d\n", x/y);
+
+    return 0;
 }
