@@ -31,7 +31,6 @@
 
 ### [Constants](https://github.com/aniketrepo/c-feature-set/blob/main/code/Constants.c)
 
-
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
 - [Logical Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/LogicalOperators.c)
