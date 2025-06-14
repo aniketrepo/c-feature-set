@@ -26,8 +26,8 @@
 - [Decimal Precision](https://github.com/aniketrepo/c-feature-set/blob/main/code/DecimalPrecision.c)
 - [Size of Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/SizeofOperator.c)
 - [Type Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/TypeConversion.c)
-	- [Implicit Conversion]
-	- [Explicit Conversion]
+	- [Implicit Type Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/ImplicitTypeConversion.c)
+	- [Explicit Conversion]()
 
 
 ### College
