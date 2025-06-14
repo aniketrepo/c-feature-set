@@ -25,6 +25,9 @@
 - [Power of 10](https://github.com/aniketrepo/c-feature-set/blob/main/code/PowerOfTen.c)
 - [Decimal Precision](https://github.com/aniketrepo/c-feature-set/blob/main/code/DecimalPrecision.c)
 - [Size of Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/SizeofOperator.c)
+- [Type Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/TypeConversion.c)
+	- [Implicit Conversion]
+	- [Explicit Conversion]
 
 
 ### College
