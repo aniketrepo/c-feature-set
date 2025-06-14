@@ -157,5 +157,9 @@ int main()
 ### Type Conversion
 - When we convert the value of one data type to another type, it is known as **Type Conversion**.
 - They are of two types-
-	- Implicit Conversion
-	- Explicit Conversion
+
+| Implicit Type Conversion                                                                                              | Explicit Type Conversion                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Implicit conversion is done automatically by the compiler when you assign a value of one type to another.             | Explicit conversion is done manually by placing the type in parentheses `()` in front of the value.                    |
+| ```// Automatic conversion: int to float  <br>float myFloat = 9;  <br>  <br>printf("%f", myFloat); // 9.000000<br>``` | ```// Manual conversion: int to float  <br>float sum = (float) 5 / 2;  <br>  <br>printf("%f", sum); // 2.500000<br>``` |
+
