@@ -14,8 +14,8 @@
 - [Format Specifiers 2](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers2.c)
 - [Format Specifiers 3](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers3.c)
 - [Operations with Variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/OperationsWithVariables.c)
-- [Student Data](https://github.com/aniketrepo/c-feature-set/blob/main/code/StudentData.c)
-- [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
+	- [Student Data](https://github.com/aniketrepo/c-feature-set/blob/main/code/StudentData.c)
+	- [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
 
 ### Data Types
 - [Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/DataTypes.c)
@@ -27,7 +27,7 @@
 - [Size of Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/SizeofOperator.c)
 - [Type Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/TypeConversion.c)
 	- [Implicit Type Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/ImplicitTypeConversion.c)
-	- [Explicit Conversion]()
+	- [Explicit Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/ExplicitTypeConversion.c)
 
 
 ### College
