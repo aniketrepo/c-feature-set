@@ -162,4 +162,3 @@ int main()
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Implicit conversion is done automatically by the compiler when you assign a value of one type to another.             | Explicit conversion is done manually by placing the type in parentheses `()` in front of the value.                    |
 | ```// Automatic conversion: int to float  <br>float myFloat = 9;  <br>  <br>printf("%f", myFloat); // 9.000000<br>``` | ```// Manual conversion: int to float  <br>float sum = (float) 5 / 2;  <br>  <br>printf("%f", sum); // 2.500000<br>``` |
-
