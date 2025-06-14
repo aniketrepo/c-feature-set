@@ -29,7 +29,7 @@
 	- [Explicit Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/ExplicitTypeConversion.c)
 	- [Video Game Score](https://github.com/aniketrepo/c-feature-set/blob/main/code/VideoGameScore.c)
 
-- [Constants](https://github.com/aniketrepo/c-feature-set/blob/main/code/Constants.c)
+### [Constants](https://github.com/aniketrepo/c-feature-set/blob/main/code/Constants.c)
 
 
 ### College
