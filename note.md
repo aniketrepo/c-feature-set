@@ -161,4 +161,10 @@ int main()
 | Implicit Type Conversion                                                                                              | Explicit Type Conversion                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Implicit conversion is done automatically by the compiler when you assign a value of one type to another.             | Explicit conversion is done manually by placing the type in parentheses `()` in front of the value.                    |
-| ```// Automatic conversion: int to float  <br>float myFloat = 9;  <br>  <br>printf("%f", myFloat); // 9.000000<br>``` | ```// Manual conversion: int to float  <br>float sum = (float) 5 / 2;  <br>  <br>printf("%f", sum); // 2.500000<br>``` |
+### Constants
+- When we don't want a variable's value to be modified after it's initialisation, we use the `const` keyword to declare it as a constant.
+- We should always declare the variable as constant when we have values that are unlikely to be changed.
+- Some key-points to take note,
+	- When we declare a constant variable, it **must** be assigned with a value.
+	- It is considered good practice to declare constant variables with uppercase.
+
