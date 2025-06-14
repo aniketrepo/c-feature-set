@@ -153,3 +153,9 @@ int main()
 | `char`    | 1 byte       |
 - The memory size refers to how much space a type occupies in the ***computer's memory***.
 - To get the size of a data type in bytes, we use **the `sizeof` operator**.
+
+### Type Conversion
+- When we convert the value of one data type to another type, it is known as **Type Conversion**.
+- They are of two types-
+	- Implicit Conversion
+	- Explicit Conversion
