@@ -248,3 +248,7 @@ int main()
 - They are handy because they save time, reduce errors, and they make code more readable.
 ## While Loop
 - The `while` loop loops through a block through a block of code as long as a specified condition is `true`.
+## Do/While Loop
+- the `do/while` loop is a variant of the `while` loop.
+- This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+- The loop will **always be executed at least once, even when the condition is false**, because the code block is executed before the condition is tested.
