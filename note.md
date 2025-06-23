@@ -1,15 +1,21 @@
+# Introduction to C Programming
+
 ## What is C?
+
 - C is a general purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.
 - It is a very popular language, despite being old. The main reason for its popularity is because it is a fundamental language in the field of computer science.
 - C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
 
-## Difference between C and C++
+## Difference Between C and C++
+
 - C++ was developed as an extension of C, as both languages have the same syntax.
 - The main difference between C and C++ is that C++ supports classes and objects, while C does not.
 
-## Some crucial stuff about a code
+# Basics of C Code
 
-```
+## Understanding a Basic C Program
+
+```c
 # include <stdio.h> 
 
 int main()
@@ -19,228 +25,193 @@ int main()
 }
 ```
 
-- Line 1
-    - `# include <stdio.h>` is a  **header file library** that lets us work with input and output functions, such as `printf()`.
-    - **A header file adds functionality to a program.**
-- Line 2
-    - A blank line, C ignores white space, but we use it to make the program more readable.
-- Line 3
-    - `int main()` is called a **function**. Any code in its curly brackets `{}` will be executed.
-- Line 4
-    - `printf()` is a **function** used to output/print text to the screen. In this case, it will output **Hello World!**
-- Line 5
-    - `return 0` ends the `main()` function.
+- Line 1: `# include <stdio.h>` is a **header file library** that lets us work with input and output functions, such as `printf()`.
+- Line 2: A blank line. C ignores white space, but we use it to make the program more readable.
+- Line 3: `int main()` is called a **function**. Any code in its curly brackets `{}` will be executed.
+- Line 4: `printf()` is a **function** used to output/print text to the screen. In this case, it will output **Hello World!**
+- Line 5: `return 0;` ends the `main()` function.
 
-## Statements
-- A computer program is a **list of "instructions" to be "executed" by a computer**.
+## Statements in C
 
-- In a programming language, **these programming instructions are called statements**.
-
-- The following statement "instructs" the compiler to print the text "Hello World" to the screen,  `printf("Hello World!");`
-
-- It is important that you end the statement with a semicolon `;`, if you forget that, an error will occur and the program will not run.
-
-- The above program has two statements, 
-    - `printf("Hello World!\n");` to print "Hello World!" to the screen.
-    - `return 0;` to end the C program successfully.
+- A computer program is a **list of instructions to be executed by a computer**.
+- These instructions are called **statements**.
+- Example: `printf("Hello World!");`
+- Each statement must end with a semicolon `;`.
 
 ## What is `\n`?
-- The **newline character `(\n)`** is called an **escape sequence**, and it **forces the cursor to change its position to the beginning of the next line on the screen, which results in a new line.**
-- Some other examples of valid escape sequences are,
 
-    |Escape Sequence|Description|
-    |---------------|---------------|
-    |`\t`                   |Creates a horizontal tab|
-    |`\\`                   |Inserts a backlash character `(\)`|
-    |`\"`                   |Inserts a double quote `(")`|
+- The **newline character (`\n`)** is an **escape sequence** that forces the cursor to move to the beginning of the next line.
+- Other common escape sequences:
+
+| Escape Sequence | Description                   |
+|------------------|-------------------------------|
+| `\t`             | Creates a horizontal tab       |
+| `\\`             | Inserts a backslash character  |
+| `\"`             | Inserts a double quote         |
 
 ## Comments in C
-- Comments can be used to explain code, and to make it more readable.
-- It can also be used to prevent execution when testing an alternative code.
-- Comments can be **single-lined** or **multi-lined**.
 
-### Single-line comments
-- These begin with **two forward slashes** `(\\)`.
-- Any text between `(\\)` and at the end of the line is ignored by the compiler (will not be executed.)
+- Used to explain code or disable code during testing.
+- Types: **single-line** and **multi-line**.
 
-### Multi-line comments
-- These begin with `\*` and end with `*\`.
-- Any text between `\*` and `*\` will be ignored by the compiler.
+### Single-Line Comments
 
-## C variables
-- Variables are containers for storing data values, like numbers and characters.
-- In C, there are different types of variables (defined with different keywords),
-	- `int` - stores **integers (whole numbers) without decimals**, such as `123` or `-123`.
-	- `float` - stores **floating point numbers, with decimals** such as `19.99` or `-19.99`.
-	- `char` - stores **single characters** such as `'a'` or `'b'`. Characters are surrounded by **single quotes**.
+- Begin with `//`
+- Text after `//` is ignored by the compiler.
+
+### Multi-Line Comments
+
+- Begin with `/*` and end with `*/`
+- All content inside is ignored by the compiler.
+
+# Variables and Data Types
+
+## Variables in C
+
+- Containers for storing data values.
+- Common types:
+  - `int` – integers
+  - `float` – decimal numbers
+  - `char` – single characters
 
 ### Format Specifiers
-- These specifiers are used together with the `printf()` function to tell the compiler what type of data is being stored.
-- It is basically a **placeholder** for the variable value.
-- A format specifier starts with a `%` sign and followed by a character,
-	- `int` - `%d`
-	- `float` - `%f`
-	- `char` - `%c`
-	- `str` - `%s`
 
-### Operations with variables
-- When we assign a new value to an existing variable, it **overwrites the previous value**.
-- We can also add variables using the `+` operator.
-- We can declare multiple variables of the same type using a **comma-separated** list.
+- Used with `printf()` to specify data type:
+  - `int` – `%d`
+  - `float` – `%f`
+  - `char` – `%c`
+  - `string` – `%s`
 
-### C Variable Names (Identifiers)
-- All C variables must be **identified** with **unique names**.
-- Theses unique names are called **identifiers**.
-- They can be short names (like x and y) or long and descriptive (like sum or TotalValue)
-- It is recommended to use descriptive names in order to create and maintain understandable code.
-- Some general rules for variable naming,
-	- Names can contain **letters, digits and underscores**.
-	- Names **must begin** with a **letter or an underscore `(_)`**.
-	- Names are **case-sensitive** (`myvar` and `myVar` are different variables).
-	- **Reserved words (such as `int`)** cannot be used as names.
+### Operations with Variables
 
-## C Data Types
-- As we already know, a variable must be a specified **data type**, and we must use a **format specifier** inside the `printf()` function to display it.
+- Assigning a new value overwrites the old one.
+- You can add variables using `+`.
+- Declare multiple variables of the same type using commas.
+
+### Variable Names (Identifiers)
+
+- Must be unique.
+- Rules:
+  - Can contain letters, digits, and underscores.
+  - Must start with a letter or underscore.
+  - Are case-sensitive.
+  - Cannot use reserved words.
+
+## Data Types in C
+
+- Define the type and size of data a variable holds.
 
 ### Basic Data Types
-- The data type specifies the **size and type** of information the variable will store.
 
-	|Data Type|Size|Description|Example|
-	|-----------|-----|------------|---------|
-	|`int`|2 or 4 bytes|Stores whole numbers, without decimals|`1`|
-	|`float`|4 bytes|Stores factorial numbers, containing one or more decimals, sufficient for storing 6-7 decimal digits|`1.99`|
-	|`double`|8 bytes|Stores fractional numbers, containing one or more decimals. Sufficient for storing 15 decimal digits|`1.99`|
-	|`char`|1 byte|Stores a single character/letter/number, or ASCII values|`'A'`|
+| Data Type | Size        | Description                                   | Example |
+|-----------|-------------|-----------------------------------------------|---------|
+| `int`     | 2 or 4 bytes | Whole numbers                                | `1`     |
+| `float`   | 4 bytes      | Decimal numbers (6–7 digits precision)        | `1.99`  |
+| `double`  | 8 bytes      | Decimal numbers (15–16 digits precision)      | `1.99`  |
+| `char`    | 1 byte       | Characters or ASCII values                    | `'A'`   |
 
-### Basic Format Specifiers
-- There are different format specifiers for each data type. Some of them are
+### Format Specifiers for Data Types
 
-	|Format Specifier|Data Type|
-	|------------------|-----------|
-	|`%d` or `%i`|`int`|
-	|`%f` or `%F`|`float`|
-	|`%lf`|`double`|
-	|`%c`| `char` |
-	|`%s` |`str`|
-
+| Format Specifier | Data Type |
+|------------------|-----------|
+| `%d`, `%i`       | `int`     |
+| `%f`, `%F`       | `float`   |
+| `%lf`            | `double`  |
+| `%c`             | `char`    |
+| `%s`             | `string`  |
 
 ### Character Data Types
-- The `char` data type is used to store a **single** character.
-- The character must be stored by single quotes, like `'A'` or `'C'`.
-- We use the format specifier `%c` to print it.
-- If we try to store more than a single character, it will only print the last character.
+
+- Use `'A'`, `'Z'` etc.
+- `%c` to print.
+- Only last character prints if more than one provided.
 
 ### Numeric Data Types
-- The `int` data type is used to store a **whole number without decimals**.
-- The `float` or `double` data type is used to store a **floating point number**.
-	- `float` is used for less precision (~6~7 decimal digits) and smaller memory footprint (4 bytes)
-	- `double` is used for higher precision (~15~16 decimal digits) and has a higher memory footprint (8 bytes)
-- **Scientific Numbers:**
-	- A floating point number can also be a scientific number with an **"e"** to **indicate the power of 10.**
+
+- `int` for whole numbers.
+- `float` / `double` for decimals.
+- Use `e` for scientific notation, e.g., `3.5e2`.
 
 ### Decimal Precision
-- We already know that upon printing a floating point number, the output will show many digits after the decimal point.
-- To remove the extra zeroes, we can use a dot (`.`) followed by a number which specifies how many digits should be shown after the decimal point.
+
+- Use `%.nf` to control number of digits after decimal.
 
 ### Memory Size
-- The memory size of a variable varies depending on the type:
 
 | Data Type | Size         |
-| --------- | ------------ |
+|-----------|--------------|
 | `int`     | 2 or 4 bytes |
 | `float`   | 4 bytes      |
 | `double`  | 8 bytes      |
 | `char`    | 1 byte       |
-- The memory size refers to how much space a type occupies in the ***computer's memory***.
-- To get the size of a data type in bytes, we use **the `sizeof` operator**.
+
+- Use `sizeof` to get memory size of a variable.
 
 ### Type Conversion
-- When we convert the value of one data type to another type, it is known as **Type Conversion**.
-- They are of two types-
 
-| Implicit Type Conversion                                                                                              | Explicit Type Conversion                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Implicit conversion is done automatically by the compiler when you assign a value of one type to another.             | Explicit conversion is done manually by placing the type in parentheses `()` in front of the value.                    |
-### Constants
-- When we don't want a variable's value to be modified after it's initialisation, we use the `const` keyword to declare it as a constant.
-- We should always declare the variable as constant when we have values that are unlikely to be changed.
-- Some key-points to take note,
-	- When we declare a constant variable, it **must** be assigned with a value.
-	- It is considered good practice to declare constant variables with uppercase.
+| Implicit Conversion          | Explicit Conversion                    |
+|------------------------------|----------------------------------------|
+| Automatically by compiler    | Manually with `(type)` before value    |
 
-### Operators
-- They are  used to perform operations on variables and values.
-- The are divided into the following groups,
+## Constants in C
 
-#### Arithmetic Operators
-- Arithmetic operators are used to perform common mathematical operations.
+- Use `const` keyword.
+- Must assign value at declaration.
+- Good practice to use uppercase for constant names.
 
-| Operator | Name           | Description                                           | Example |
-| -------- | -------------- | ----------------------------------------------------- | ------- |
-| `+`      | Addition       | Adds two values                                       | `x+y`   |
-| `-`      | Subtraction    | Subtracts one value from another                      | `x-y`   |
-| `*`      | Multiplication | Multiplies two values                                 | `x*y`   |
-| `/`      | Division       | Divides one value from another, returns the quotient  | `x/y`   |
-| `%`      | Modulus        | Divides one value from another, returns the remainder | `x%y`   |
-| `++`     | Increment      | Increases the value of a variable by 1                | `++x`   |
-| `--`     | Decrement      | Decreases the value of a variable by 1                | `--x`   |
-#### Assignment Operators
-- Assignment operators are used to assign values to variables.
+# Operators in C
 
-| Operator | Example   | Same As      |
-| -------- | --------- | ------------ |
-| `=`      | `x = 5`   | `x = 5`      |
-| `+=`     | `x += 3`  | `x = x + 3`  |
-| `-=`     | `x -= 3`  | `x = x - 3`  |
-| `*=`     | `x *= 3`  | `x = x * 3`  |
-| `/=`     | `x /= 3`  | `x = x / 3`  |
-| `%=`     | `x %= 3`  | `x = x % 3`  |
-| `&=`     | `x &= 3`  | `x = x & 3`  |
-| `\|=`    | `x \|= 3` | `x = x \| 3` |
-| `^=`     | `x ^= 3`  | `x = x ^ 3`  |
-| `>>=`    | `x >>= 3` | `x = x >> 3` |
-| `<<=`    | `x <<= 3` | `x = x << 3` |
-#### Comparison Operators
-- These are used to compare two values (or variables). This is important in programming, because it helps us to find answers and make decisions.
-- The return value of a comparison operator is either
-	- `1` which means true
-	- `0` which means false
-- These are known as **Boolean values**.
+## Arithmetic Operators
 
-| Operator | Name                     | Example  | Description                                                                 |
-| -------- | ------------------------ | -------- | --------------------------------------------------------------------------- |
-| `==`     | Equal to                 | `x == y` | Returns 1 if the values are equal                                           |
-| `!=`     | Not equal                | `x != y` | Returns 1 if the values are not equal                                       |
-| `>`      | Greater than             | `x > y`  | Returns 1 if the first value is greater than the second value               |
-| `<`      | Less than                | `x < y`  | Returns 1 if the first value is less than the second value                  |
-| `>=`     | Greater than or equal to | `x >= y` | Returns 1 if the first value is greater than, or equal to, the second value |
-| `<=`     | Less than or equal to    | `x <= y` | Returns 1 if the first value is less than, or equal to, the second value    |
-#### Logical Operators
-- We can also test for true or false values with logical operators
-- They are used to determine the logic between variables or values, by combining multiple conditions.
+| Operator | Name           | Description                                           |
+|----------|----------------|-------------------------------------------------------|
+| `+`      | Addition       | Adds two values                                       |
+| `-`      | Subtraction    | Subtracts one from another                           |
+| `*`      | Multiplication | Multiplies two values                                |
+| `/`      | Division       | Divides one by another (returns quotient)            |
+| `%`      | Modulus        | Returns the remainder                                |
+| `++`     | Increment      | Increases value by 1                                 |
+| `--`     | Decrement      | Decreases value by 1                                 |
 
-| Operator | Name | Example              | Description                                      |
-| -------- | ---- | -------------------- | ------------------------------------------------ |
-| `&&`     | AND  | `x < 5 &&  x < 10`   | Returns 1 if both statements are true            |
-| `\|\|`   | OR   | `x < 5 \|\| x < 4`   | Returns 1 if one of the statements is true       |
-| `!`      | NOT  | `!(x < 5 && x < 10)` | Reverse the result, returns 0 if the result is 1 |
+## Assignment Operators
 
-### Booleans
-- In programming, we sometimes need a data type which can only have one of two values, like
-	- YES / NO
-	- ON / OFF
-	- TRUE / FALSE
-- For this, C has a `bool` data type, which is known as **Boolean**.
-- Booleans represent values that are either `true` or `false`.
+| Operator | Example   | Equivalent      |
+|----------|-----------|-----------------|
+| `=`      | `x = 5`   | `x = 5`         |
+| `+=`     | `x += 3`  | `x = x + 3`     |
+| `-=`     | `x -= 3`  | `x = x - 3`     |
+| `*=`     | `x *= 3`  | `x = x * 3`     |
+| `/=`     | `x /= 3`  | `x = x / 3`     |
+| `%=`     | `x %= 3`  | `x = x % 3`     |
+| `&=`     | `x &= 3`  | `x = x & 3`     |
+| `|=`     | `x |= 3`  | `x = x | 3`     |
+| `^=`     | `x ^= 3`  | `x = x ^ 3`     |
+| `>>=`    | `x >>= 3` | `x = x >> 3`    |
+| `<<=`    | `x <<= 3` | `x = x << 3`    |
 
-#### Boolean Variables
-- In C, the `bool` type is not a built-in data type, like `int` or `char`.
-- We must **import** the following header file to use it
+## Comparison Operators
 
-`# include <stdbool.h>`
+| Operator | Name                     | Example  | Description                                  |
+|----------|--------------------------|----------|----------------------------------------------|
+| `==`     | Equal to                 | `x == y` | True if equal                                |
+| `!=`     | Not equal                | `x != y` | True if not equal                            |
+| `>`      | Greater than             | `x > y`  | True if left is greater                      |
+| `<`      | Less than                | `x < y`  | True if left is smaller                      |
+| `>=`     | Greater than or equal to | `x >= y` | True if left is greater or equal             |
+| `<=`     | Less than or equal to    | `x <= y` | True if left is smaller or equal             |
 
-- A boolean variable is declared with `bool` keyword and can make the values `true` or `false`.
-- Boolean values are returned as **integers**,
-	- `1` (or any other number that is not 0) represents `true`
-	- `0` represents `false`
-- Therefore, we must use the `%d` format specifier to print a boolean value.
+## Logical Operators
+
+| Operator | Name | Example              | Description                                  |
+|----------|------|----------------------|----------------------------------------------|
+| `&&`     | AND  | `x < 5 && x < 10`    | True if both conditions are true             |
+| `||`     | OR   | `x < 5 || x < 4`     | True if one condition is true                |
+| `!`      | NOT  | `!(x < 5 && x < 10)` | Reverses the result                          |
+
+# Booleans in C
+
+## Boolean Variables
+
+- C doesn't have native `bool` — use `#include <stdbool.h>`
+- `bool` can be `true` (1) or `false` (0)
+- Use `%d` to print boolean values.
