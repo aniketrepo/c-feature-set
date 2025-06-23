@@ -222,3 +222,5 @@ int main()
 - `if` statement is case-sensitive, using it in caps will generate an error.
 ## Else
 - We use the `else` statement to specify a block of code to be executed if the condition is `false`.
+## Else If
+- We use the `else if` statement to specify a new condition if the first condition is `false`.
