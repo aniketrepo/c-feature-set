@@ -49,7 +49,7 @@
 - [Short Hand Statements](https://github.com/aniketrepo/c-feature-set/blob/main/code/ShortHandIfElse.c)
 - [Door Code](https://github.com/aniketrepo/c-feature-set/blob/main/code/DoorCode.c)
 - [Positive or Negative](https://github.com/aniketrepo/c-feature-set/blob/main/code/PositiveOrNegative.c)
-- 
+- [Even or Odd](https://github.com/aniketrepo/c-feature-set/blob/main/code/EvenOrOdd.c)
 
 
 ### College
