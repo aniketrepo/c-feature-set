@@ -63,6 +63,7 @@
 ## For Loop
 - [For Loop](https://github.com/aniketrepo/c-feature-set/blob/main/code/ForLoop.c)
 - [Even Numbers](https://github.com/aniketrepo/c-feature-set/blob/main/code/EvenNumbers.c)
+- [Sum of Numbers](https://github.com/aniketrepo/c-feature-set/blob/main/code/SumOfNumbers.c)
 - 
 
 
