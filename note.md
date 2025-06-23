@@ -238,3 +238,6 @@ int main()
 - This will stop the execution of more code and case testing inside the block.
 - When a match is found, and the job is done, it's time for a break. No need for more testing.
 - A break can save a lot of execution time because it "ignores" the execution of all the rest of the code in the switch block.
+## The `default` keyword
+- The `default` keyword specifies some code to run if there no case match.
+- The default keyword must be used as the last statement in the switch, and it does not need a break.

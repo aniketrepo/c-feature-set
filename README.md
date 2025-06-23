@@ -51,6 +51,10 @@
 - [Positive or Negative](https://github.com/aniketrepo/c-feature-set/blob/main/code/PositiveOrNegative.c)
 - [Even or Odd](https://github.com/aniketrepo/c-feature-set/blob/main/code/EvenOrOdd.c)
 
+## Switch
+- [Day of Week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfWeek.c)
+- [Weekend](https://github.com/aniketrepo/c-feature-set/blob/main/code/Weekend.c)
+
 
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
