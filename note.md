@@ -228,3 +228,13 @@ int main()
 - This is known as the **ternary operator** because it consists of three operands.
 - It can be used to replace multiple lines of code with a single line.
 - It is often used to replace simple if else statements.
+
+# Switch
+## Switch Statement
+- Instead of writing many `if... else` statements, we can use the `switch` statement.
+- The `switch` statement selects one of the many code blocs to be executed.
+## The `break` keyword
+- When C reaches a `break` keyword, it breaks out of the switch block.
+- This will stop the execution of more code and case testing inside the block.
+- When a match is found, and the job is done, it's time for a break. No need for more testing.
+- A break can save a lot of execution time because it "ignores" the execution of all the rest of the code in the switch block.
