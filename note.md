@@ -220,3 +220,5 @@ int main()
 ## If
 - We use the `if` statement to specify a block of code to be executed if a condition is `true`.
 - `if` statement is case-sensitive, using it in caps will generate an error.
+## Else
+- We use the `else` statement to specify a block of code to be executed if the condition is `false`.

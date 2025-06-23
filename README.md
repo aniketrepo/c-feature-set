@@ -43,7 +43,7 @@
 - [Age of Voting](https://github.com/aniketrepo/c-feature-set/blob/main/code/AgeOfVoting.c)
 
 ### If... Else
-- [If Statements]()
+- [If Statements](https://github.com/aniketrepo/c-feature-set/blob/main/code/IfStatement.c)
 
 
 ### College
