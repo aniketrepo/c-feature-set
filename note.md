@@ -241,3 +241,10 @@ int main()
 ## The `default` keyword
 - The `default` keyword specifies some code to run if there no case match.
 - The default keyword must be used as the last statement in the switch, and it does not need a break.
+
+# While Loop
+## Loops
+- They can execute a block of code as long as a specified condition is reached.
+- They are handy because they save time, reduce errors, and they make code more readable.
+## While Loop
+- The `while` loop loops through a block through a block of code as long as a specified condition is `true`.
