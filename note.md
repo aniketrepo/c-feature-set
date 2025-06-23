@@ -175,19 +175,19 @@ int main()
 
 ## Assignment Operators
 
-| Operator | Example   | Equivalent      |
-|----------|-----------|-----------------|
-| `=`      | `x = 5`   | `x = 5`         |
-| `+=`     | `x += 3`  | `x = x + 3`     |
-| `-=`     | `x -= 3`  | `x = x - 3`     |
-| `*=`     | `x *= 3`  | `x = x * 3`     |
-| `/=`     | `x /= 3`  | `x = x / 3`     |
-| `%=`     | `x %= 3`  | `x = x % 3`     |
-| `&=`     | `x &= 3`  | `x = x & 3`     |
-| `|=`     | `x |= 3`  | `x = x | 3`     |
-| `^=`     | `x ^= 3`  | `x = x ^ 3`     |
-| `>>=`    | `x >>= 3` | `x = x >> 3`    |
-| `<<=`    | `x <<= 3` | `x = x << 3`    |
+| Operator | Example   | Equivalent   |
+| -------- | --------- | ------------ |
+| `=`      | `x = 5`   | `x = 5`      |
+| `+=`     | `x += 3`  | `x = x + 3`  |
+| `-=`     | `x -= 3`  | `x = x - 3`  |
+| `*=`     | `x *= 3`  | `x = x * 3`  |
+| `/=`     | `x /= 3`  | `x = x / 3`  |
+| `%=`     | `x %= 3`  | `x = x % 3`  |
+| `&=`     | `x &= 3`  | `x = x & 3`  |
+| `\|=`    | `x \|= 3` | `x = x \| 3` |
+| `^=`     | `x ^= 3`  | `x = x ^ 3`  |
+| `>>=`    | `x >>= 3` | `x = x >> 3` |
+| `<<=`    | `x <<= 3` | `x = x << 3` |
 
 ## Comparison Operators
 
@@ -202,11 +202,11 @@ int main()
 
 ## Logical Operators
 
-| Operator | Name | Example              | Description                                  |
-|----------|------|----------------------|----------------------------------------------|
-| `&&`     | AND  | `x < 5 && x < 10`    | True if both conditions are true             |
-| `||`     | OR   | `x < 5 || x < 4`     | True if one condition is true                |
-| `!`      | NOT  | `!(x < 5 && x < 10)` | Reverses the result                          |
+| Operator | Name | Example              | Description                      |
+| -------- | ---- | -------------------- | -------------------------------- |
+| `&&`     | AND  | `x < 5 && x < 10`    | True if both conditions are true |
+| `\|\|`   | OR   | `x < 5 \|\| x < 4`   | True if one condition is true    |
+| `!`      | NOT  | `!(x < 5 && x < 10)` | Reverses the result              |
 
 # Booleans in C
 
