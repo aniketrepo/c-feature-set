@@ -189,7 +189,7 @@ int main()
 
 | Operator | Example   | Same As      |
 | -------- | --------- | ------------ |
-| `+=`     | `x = 5`   | `x = 5`      |
+| `=`      | `x = 5`   | `x = 5`      |
 | `+=`     | `x += 3`  | `x = x + 3`  |
 | `-=`     | `x -= 3`  | `x = x - 3`  |
 | `*=`     | `x *= 3`  | `x = x * 3`  |
@@ -224,3 +224,23 @@ int main()
 | `&&`     | AND  | `x < 5 &&  x < 10`   | Returns 1 if both statements are true            |
 | `\|\|`   | OR   | `x < 5 \|\| x < 4`   | Returns 1 if one of the statements is true       |
 | `!`      | NOT  | `!(x < 5 && x < 10)` | Reverse the result, returns 0 if the result is 1 |
+
+### Booleans
+- In programming, we sometimes need a data type which can only have one of two values, like
+	- YES / NO
+	- ON / OFF
+	- TRUE / FALSE
+- For this, C has a `bool` data type, which is known as **Boolean**.
+- Booleans represent values that are either `true` or `false`.
+
+#### Boolean Variables
+- In C, the `bool` type is not a built-in data type, like `int` or `char`.
+- We must **import** the following header file to use it
+
+`# include <stdbool.h>`
+
+- A boolean variable is declared with `bool` keyword and can make the values `true` or `false`.
+- Boolean values are returned as **integers**,
+	- `1` (or any other number that is not 0) represents `true`
+	- `0` represents `false`
+- Therefore, we must use the `%d` format specifier to print a boolean value.
