@@ -215,3 +215,12 @@ int main()
 | `<`      | Less than                | `x < y`  | Returns 1 if the first value is less than the second value                  |
 | `>=`     | Greater than or equal to | `x >= y` | Returns 1 if the first value is greater than, or equal to, the second value |
 | `<=`     | Less than or equal to    | `x <= y` | Returns 1 if the first value is less than, or equal to, the second value    |
+#### Logical Operators
+- We can also test for true or false values with logical operators
+- They are used to determine the logic between variables or values, by combining multiple conditions.
+
+| Operator | Name | Example              | Description                                      |
+| -------- | ---- | -------------------- | ------------------------------------------------ |
+| `&&`     | AND  | `x < 5 &&  x < 10`   | Returns 1 if both statements are true            |
+| `\|\|`   | OR   | `x < 5 \|\| x < 4`   | Returns 1 if one of the statements is true       |
+| `!`      | NOT  | `!(x < 5 && x < 10)` | Reverse the result, returns 0 if the result is 1 |
