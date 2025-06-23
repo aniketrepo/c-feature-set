@@ -33,6 +33,7 @@
 
 ### Operators
 - [Arithmetic Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArithmeticOperators.c)
+- [Assignment Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/AssingmentOperator.c)
 - 
 
 ### College
