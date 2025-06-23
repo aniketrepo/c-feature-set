@@ -29,7 +29,8 @@
 	- [Explicit Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/ExplicitTypeConversion.c)
 	- [Video Game Score](https://github.com/aniketrepo/c-feature-set/blob/main/code/VideoGameScore.c)
 
-### [Constants](https://github.com/aniketrepo/c-feature-set/blob/main/code/Constants.c)
+### Constants
+- [Constants](https://github.com/aniketrepo/c-feature-set/blob/main/code/Constants.c)
 
 ### Operators
 - [Arithmetic Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArithmeticOperators.c)
@@ -38,7 +39,7 @@
 - [Logical Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/LogicalOperators)
 
 ### Booleans
-- 
+- [Boolean Variables]()
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
 - [Bitwise Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/BitwiseOperator.c)
