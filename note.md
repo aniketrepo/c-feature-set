@@ -215,3 +215,8 @@ int main()
 - C doesn't have native `bool` — use `#include <stdbool.h>`
 - `bool` can be `true` (1) or `false` (0)
 - Use `%d` to print boolean values.
+
+# If... Else
+## If
+- We use the `if` statement to specify a block of code to be executed if a condition is `true`.
+- `if` statement is case-sensitive, using it in caps will generate an error.
