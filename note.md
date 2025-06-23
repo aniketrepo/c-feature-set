@@ -200,3 +200,18 @@ int main()
 | `^=`     | `x ^= 3`  | `x = x ^ 3`  |
 | `>>=`    | `x >>= 3` | `x = x >> 3` |
 | `<<=`    | `x <<= 3` | `x = x << 3` |
+#### Comparison Operators
+- These are used to compare two values (or variables). This is important in programming, because it helps us to find answers and make decisions.
+- The return value of a comparison operator is either
+	- `1` which means true
+	- `0` which means false
+- These are known as **Boolean values**.
+
+| Operator | Name                     | Example  | Description                                                                 |
+| -------- | ------------------------ | -------- | --------------------------------------------------------------------------- |
+| `==`     | Equal to                 | `x == y` | Returns 1 if the values are equal                                           |
+| `!=`     | Not equal                | `x != y` | Returns 1 if the values are not equal                                       |
+| `>`      | Greater than             | `x > y`  | Returns 1 if the first value is greater than the second value               |
+| `<`      | Less than                | `x < y`  | Returns 1 if the first value is less than the second value                  |
+| `>=`     | Greater than or equal to | `x >= y` | Returns 1 if the first value is greater than, or equal to, the second value |
+| `<=`     | Less than or equal to    | `x <= y` | Returns 1 if the first value is less than, or equal to, the second value    |
