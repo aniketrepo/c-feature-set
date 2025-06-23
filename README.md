@@ -35,7 +35,7 @@
 - [Arithmetic Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArithmeticOperators.c)
 - [Assignment Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/AssingmentOperator.c)
 - [Comparison Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/ComparisonOperators.c)
-- 
+- [Logical Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/LogicalOperators)
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
 - [Bitwise Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/BitwiseOperator.c)
