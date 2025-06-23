@@ -58,6 +58,7 @@
 ## While Loop
 - [While Loop](https://github.com/aniketrepo/c-feature-set/blob/main/code/WhileLoop.c)
 - [New Year Countdown](https://github.com/aniketrepo/c-feature-set/blob/main/code/HappyNewYear.c)
+- [Do/While Loop](https://github.com/aniketrepo/c-feature-set/blob/main/code/DoWhileLoop.c)
 
 
 ### College
