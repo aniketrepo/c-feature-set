@@ -38,7 +38,6 @@
 - 
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
-- [Logical Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/LogicalOperators.c)
 - [Bitwise Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/BitwiseOperator.c)
 - [Assignment Operator](https://github.com/aniketrepo/c-feature-set/blob/main/code/AssingmentOperator.c)
 - [Calculator using Switch Case](https://github.com/aniketrepo/c-feature-set/blob/main/code/CalculatorSwitchCase.c)
