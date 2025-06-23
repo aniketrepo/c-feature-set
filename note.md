@@ -168,3 +168,19 @@ int main()
 	- When we declare a constant variable, it **must** be assigned with a value.
 	- It is considered good practice to declare constant variables with uppercase.
 
+### Operators
+- They are  used to perform operations on variables and values.
+- The are divided into the following groups,
+
+#### Arithmetic Operators
+
+| Operator | Name           | Description                                           | Example |
+| -------- | -------------- | ----------------------------------------------------- | ------- |
+| `+`      | Addition       | Adds two values                                       | `x+y`   |
+| `-`      | Subtraction    | Subtracts one value from another                      | `x-y`   |
+| `*`      | Multiplication | Multiplies two values                                 | `x*y`   |
+| `/`      | Division       | Divides one value from another, returns the quotient  | `x/y`   |
+| `%`      | Modulus        | Divides one value from another, returns the remainder | `x%y`   |
+| `++`     | Increment      | Increases the value of a variable by 1                | `++x`   |
+| `--`     | Decrement      | Decreases the value of a variable by 1                | `--x`   |
+	-
