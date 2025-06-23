@@ -173,6 +173,7 @@ int main()
 - The are divided into the following groups,
 
 #### Arithmetic Operators
+- Arithmetic operators are used to perform common mathematical operations.
 
 | Operator | Name           | Description                                           | Example |
 | -------- | -------------- | ----------------------------------------------------- | ------- |
@@ -183,4 +184,19 @@ int main()
 | `%`      | Modulus        | Divides one value from another, returns the remainder | `x%y`   |
 | `++`     | Increment      | Increases the value of a variable by 1                | `++x`   |
 | `--`     | Decrement      | Decreases the value of a variable by 1                | `--x`   |
-	-
+#### Assignment Operators
+- Assignment operators are used to assign values to variables.
+
+| Operator | Example   | Same As      |
+| -------- | --------- | ------------ |
+| `+=`     | `x = 5`   | `x = 5`      |
+| `+=`     | `x += 3`  | `x = x + 3`  |
+| `-=`     | `x -= 3`  | `x = x - 3`  |
+| `*=`     | `x *= 3`  | `x = x * 3`  |
+| `/=`     | `x /= 3`  | `x = x / 3`  |
+| `%=`     | `x %= 3`  | `x = x % 3`  |
+| `&=`     | `x &= 3`  | `x = x & 3`  |
+| `\|=`    | `x \|= 3` | `x = x \| 3` |
+| `^=`     | `x ^= 3`  | `x = x ^ 3`  |
+| `>>=`    | `x >>= 3` | `x = x >> 3` |
+| `<<=`    | `x <<= 3` | `x = x << 3` |
