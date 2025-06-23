@@ -39,7 +39,7 @@
 - [Logical Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/LogicalOperators)
 
 ### Booleans
-- [Boolean Variables]()
+- [Boolean Variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/BooleanVariables.c)
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
 - [Bitwise Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/BitwiseOperator.c)
