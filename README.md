@@ -55,6 +55,10 @@
 - [Day of Week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfWeek.c)
 - [Weekend](https://github.com/aniketrepo/c-feature-set/blob/main/code/Weekend.c)
 
+## While Loop
+- [While Loop](https://github.com/aniketrepo/c-feature-set/blob/main/code/WhileLoop.c)
+- [New Year Countdown](https://github.com/aniketrepo/c-feature-set/blob/main/code/HappyNewYear.c)
+
 
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
