@@ -256,3 +256,6 @@ int main()
 # For Loop
 ## For Loop
 - When we know exactly how many times we want to loop through a block of code, use the `for` loop instead of a `while` loop.
+## Nested Loops
+- A loop inside another loop is called a nested loop.
+- The inner loop will be executed one time for each iteration of the outer loop.
