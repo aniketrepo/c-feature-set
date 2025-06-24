@@ -259,3 +259,11 @@ int main()
 ## Nested Loops
 - A loop inside another loop is called a nested loop.
 - The inner loop will be executed one time for each iteration of the outer loop.
+
+# Break/Continue
+- soon
+
+# Arrays
+- They are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+- To create an array, define the data type (like `int`) and specify the name of the array followed by square brackets `[]`
+- To insert value to it, use comma-separated list inside curly braces, and make sure all values are of the same data type.
