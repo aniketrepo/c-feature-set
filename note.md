@@ -264,6 +264,14 @@ int main()
 - soon
 
 # Arrays
+## Arrays
 - They are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 - To create an array, define the data type (like `int`) and specify the name of the array followed by square brackets `[]`
 - To insert value to it, use comma-separated list inside curly braces, and make sure all values are of the same data type.
+## Access the elements of an array
+- To access an element, refer to its **index number**.
+- Array indices start with 0, [0] is the first element, [1] is the second element, etc.
+## Change the elements of an array
+- To change the value of a specific element, refer to the index number.
+## Loop through an array
+- We can loop through the array elements with the `for` loop.
