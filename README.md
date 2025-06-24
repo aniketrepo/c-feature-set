@@ -72,7 +72,7 @@
 ## Arrays
 - [Array](https://github.com/aniketrepo/c-feature-set/blob/main/code/Array.c)
 - [Array Loop](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArrayLoop.c)
-- [Array Size]
+- [Array Size](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArraySize.c)
 
 
 ### College
