@@ -50,6 +50,7 @@
 - [Door Code](https://github.com/aniketrepo/c-feature-set/blob/main/code/DoorCode.c)
 - [Positive or Negative](https://github.com/aniketrepo/c-feature-set/blob/main/code/PositiveOrNegative.c)
 - [Even or Odd](https://github.com/aniketrepo/c-feature-set/blob/main/code/EvenOrOdd.c)
+- [Leap Year](https://github.com/aniketrepo/c-feature-set/blob/main/code/LeapYear.c)
 
 ## Switch
 - [Day of Week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfWeek.c)
