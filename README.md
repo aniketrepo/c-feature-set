@@ -67,6 +67,7 @@
 - [Sum of Numbers](https://github.com/aniketrepo/c-feature-set/blob/main/code/SumOfNumbers.c)
 - [Countdown](https://github.com/aniketrepo/c-feature-set/blob/main/code/Countdown.c)
 - [Multiplication Table](https://github.com/aniketrepo/c-feature-set/blob/main/code/MultiplicationTable.c)
+- [Star Pyramid](https://github.com/aniketrepo/c-feature-set/blob/main/code/StarPyramid.c)
 
 ## Break Continue
 
