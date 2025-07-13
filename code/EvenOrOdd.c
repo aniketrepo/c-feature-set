@@ -2,11 +2,16 @@
 
 int main()
 {
-    int num = 7;
 
-    if (num % 2 == 0){
+    int num;
+
+    printf("Please enter a number: ");
+    scanf("%d", &num);
+
+    if (num%2==0){
         printf("The number is even.\n");
     }
+
     else{
         printf("The number is odd.\n");
     }
