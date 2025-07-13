@@ -54,6 +54,8 @@
 - [Character Classification](https://github.com/aniketrepo/c-feature-set/blob/main/code/CharacterClassification.c)
 - [Leap Year](https://github.com/aniketrepo/c-feature-set/blob/main/code/LeapYear.c)
 - [Marks to grade](https://github.com/aniketrepo/c-feature-set/blob/main/code/MarksToGrade.c)
+- [Electricity Bill Calculator](https://github.com/aniketrepo/c-feature-set/blob/main/code/ElectricityBillCalculator.c)
+- 
 
 ## Switch
 - [Day of Week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfWeek.c)
