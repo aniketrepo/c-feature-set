@@ -55,7 +55,7 @@
 - [Leap Year](https://github.com/aniketrepo/c-feature-set/blob/main/code/LeapYear.c)
 - [Marks to grade](https://github.com/aniketrepo/c-feature-set/blob/main/code/MarksToGrade.c)
 - [Electricity Bill Calculator](https://github.com/aniketrepo/c-feature-set/blob/main/code/ElectricityBillCalculator.c)
-- 
+- [Day of the week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfTheWeek.c)
 
 ## Switch
 - [Day of Week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfWeek.c)
