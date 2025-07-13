@@ -1,14 +1,14 @@
 [notes](https://github.com/aniketrepo/c-feature-set/blob/main/note.md)
 
 ## Basic Language Features
-### Syntax
+## Syntax
 - [Hello World](https://github.com/aniketrepo/c-feature-set/blob/main/code/MyFirstProgram.c)
 
-### Comments
+## Comments
 - [Single-lined comment](https://github.com/aniketrepo/c-feature-set/blob/main/code/SingleLineComment.c)
 - [Multi-lined comment](https://github.com/aniketrepo/c-feature-set/blob/main/code/MultiLineComment.c)
 
-### Variables
+## Variables
 - [Initializing variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/Variables.c)
 - [Format Specifiers 1](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers.c)
 - [Format Specifiers 2](https://github.com/aniketrepo/c-feature-set/blob/main/code/FormatSpecifiers2.c)
@@ -16,7 +16,7 @@
 - [Operations with Variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/OperationsWithVariables.c)
 	- [Student Data](https://github.com/aniketrepo/c-feature-set/blob/main/code/StudentData.c)
 	- [Area of a Rectangle](https://github.com/aniketrepo/c-feature-set/blob/main/code/AreaOfRectangle.c)
-### Data Types
+## Data Types
 - [Data Types](https://github.com/aniketrepo/c-feature-set/blob/main/code/DataTypes.c)
 - [The Char data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheCharDataType.c)
 - [The Int data type](https://github.com/aniketrepo/c-feature-set/blob/main/code/TheIntDataType.c)
@@ -29,20 +29,20 @@
 	- [Explicit Conversion](https://github.com/aniketrepo/c-feature-set/blob/main/code/ExplicitTypeConversion.c)
 	- [Video Game Score](https://github.com/aniketrepo/c-feature-set/blob/main/code/VideoGameScore.c)
 
-### Constants
+## Constants
 - [Constants](https://github.com/aniketrepo/c-feature-set/blob/main/code/Constants.c)
 
-### Operators
+## Operators
 - [Arithmetic Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArithmeticOperators.c)
 - [Assignment Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/AssingmentOperator.c)
 - [Comparison Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/ComparisonOperators.c)
 - [Logical Operators](https://github.com/aniketrepo/c-feature-set/blob/main/code/LogicalOperators)
 
-### Booleans
+## Booleans
 - [Boolean Variables](https://github.com/aniketrepo/c-feature-set/blob/main/code/BooleanVariables.c)
 - [Age of Voting](https://github.com/aniketrepo/c-feature-set/blob/main/code/AgeOfVoting.c)
 
-### If... Else
+## If... Else
 - [If Statements](https://github.com/aniketrepo/c-feature-set/blob/main/code/IfStatement.c)
 - [Else Statements](https://github.com/aniketrepo/c-feature-set/blob/main/code/ElseStatement.c)
 - [Else If Statements](https://github.com/aniketrepo/c-feature-set/blob/main/code/ElseIfStatement.c)
