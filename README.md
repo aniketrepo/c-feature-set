@@ -53,6 +53,7 @@
 - [Greatest number](https://github.com/aniketrepo/c-feature-set/blob/main/code/GreatesOfThree.c)
 - [Character Classification](https://github.com/aniketrepo/c-feature-set/blob/main/code/CharacterClassification.c)
 - [Leap Year](https://github.com/aniketrepo/c-feature-set/blob/main/code/LeapYear.c)
+- [Marks to grade](https://github.com/aniketrepo/c-feature-set/blob/main/code/MarksToGrade.c)
 
 ## Switch
 - [Day of Week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfWeek.c)
