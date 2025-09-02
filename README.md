@@ -80,7 +80,7 @@
 - [Array](https://github.com/aniketrepo/c-feature-set/blob/main/code/Array.c)
 - [Array Loop](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArrayLoop.c)
 - [Array Size](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArraySize.c)
-- [Printing the elements of an array]()
+- [Printing the elements of an array](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArraySizeLoop.c)
 
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
