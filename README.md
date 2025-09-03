@@ -56,6 +56,7 @@
 - [Marks to grade](https://github.com/aniketrepo/c-feature-set/blob/main/code/MarksToGrade.c)
 - [Electricity Bill Calculator](https://github.com/aniketrepo/c-feature-set/blob/main/code/ElectricityBillCalculator.c)
 - [Day of the week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfTheWeek.c)
+- [Voting Eligibility](https://github.com/aniketrepo/c-feature-set/commit/4c1a5ba90999d4a1b9b3bc1a5f28447e8e9cac63)
 
 ## Switch
 - [Day of Week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfWeek.c)
