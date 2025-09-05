@@ -1,33 +1,22 @@
-#include <stdio.h>
+# include <stdio.h>
 
-int main() {
-    int units;
-    float bill = 0;
+int main(){
 
-    printf("Please enter units of electricity used: ");
-    scanf("%d", &units);
+    float cost;
+    float units;
 
-    if (units <= 100) {
-        bill = units * 1.00;
-    }
+    printf("Enter the number of units consumed: ");
+    scanf("%f", &units);
     
-    else if (units <= 200) {
-        bill = 100 * 1.00 + (units - 100) * 1.50;
-    }
-    
-    else if (units <= 300) {
-        bill = 100 * 1.00 + 100 * 1.50 + (units - 200) * 2.00;
-    }
-    
-    else if (units > 300) {
-        bill = 100 * 1.00 + 100 * 1.50 + 100 * 2.00 + (units - 300) * 3.00;
-    }
-    
-    else {
-        printf("INVALID VALUE ENTERED\n");
+    if (units <= 100){
+        cost = units * 1.5;
+        printf("Your bill is %f/n", cost);
     }
 
-    printf("Your bill is Rs. %.2f\n", bill);
-    
+    else if ((units > 100) && (units <= 200)){
+        cost = (units * 1.5) * 
+    }
+
+
     return 0;
 }
