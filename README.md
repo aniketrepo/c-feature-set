@@ -57,6 +57,8 @@
 - [Electricity Bill Calculator](https://github.com/aniketrepo/c-feature-set/blob/main/code/ElectricityBillCalculator.c)
 - [Day of the week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfTheWeek.c)
 - [Voting Eligibility](https://github.com/aniketrepo/c-feature-set/commit/4c1a5ba90999d4a1b9b3bc1a5f28447e8e9cac63)
+- [Triangle Validity](https://github.com/aniketrepo/c-feature-set/blob/main/code/TriangleValidity.c)
+- [Profit or Loss](https://github.com/aniketrepo/c-feature-set/blob/main/code/ProfitOrLoss.c)
 
 ## Switch
 - [Day of Week](https://github.com/aniketrepo/c-feature-set/blob/main/code/DayOfWeek.c)
@@ -83,7 +85,7 @@
 - [Array Size](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArraySize.c)
 - [Printing the elements of an array](https://github.com/aniketrepo/c-feature-set/blob/main/code/ArraySizeLoop.c)
 - [Finding the lowest value in an array](https://github.com/aniketrepo/c-feature-set/blob/main/code/LowestAgeFinder.c)
-- 
+- [Two Dimensional Array](https://github.com/aniketrepo/c-feature-set/blob/main/code/2Darray.c)
 
 ### College
 - [ASCII value of a character](https://github.com/aniketrepo/c-feature-set/blob/main/code/ASCII.c)
